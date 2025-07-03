@@ -31,3 +31,6 @@ Name: Lek Er Xun
 - Director List (NYP 22/23)
 - Edusave Merit Bursary (2023)
 - NS Excellence Award (WY 23/24)
+
+# Link
+- [![💼](https://img.icons8.com/ios-filled/16/briefcase.png) LinkedIn](https://www.linkedin.com/in/lekerxun/)
