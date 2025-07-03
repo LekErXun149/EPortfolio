@@ -33,4 +33,4 @@ Name: Lek Er Xun
 - NS Excellence Award (WY 23/24)
 
 # Link
-- [![💼](https://img.icons8.com/ios-filled/16/briefcase.png) LinkedIn](https://www.linkedin.com/in/lekerxun/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lekerxun/)
