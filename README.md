@@ -20,3 +20,14 @@ Name: Lek Er Xun
   - Project involving Machine Vision and Robotic Arm
   - Exhibitor for Industrial Transformation ASIA-PACIFIC 2023
 
+# Skills
+- Programing (C, C++ & Python)
+- Leadership
+- Teamwork
+- Problem Solving
+
+# Awards & Recognition
+- Google IT Automation with Python
+- Director List (NYP 22/23)
+- Edusave Merit Bursary (2023)
+- NS Excellence Award (WY 23/24)
