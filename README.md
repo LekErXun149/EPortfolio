@@ -1,11 +1,12 @@
-## RSE2107A-Systems Engineering Project 1
+## Portfolio
 
-Lek Er Xun (2402042)
+Name: Lek Er Xun
 
-# Description
+# Education
+- **Higher Nitec in Mechatronics Engineering** 
+  Institute of Technical Education
 
-This repository contain the thing done in this module.
-- Learn how to install ROS Medolic into virtual box.
-- Using ROS tutorials to learn the basic.
+- **Diploma in Robotics & Mechatronics Engineering** 
+  Nanyang Polytechnics
 
-
+# Job Experiance
