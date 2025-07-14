@@ -26,6 +26,9 @@ Name: Lek Er Xun
 - Teamwork
 - Problem Solving
 
+## Project
+- [LIMO Project](https://github.com/LekErXun149/Limo.git)
+
 ## Awards & Recognition
 - Google IT Automation with Python
 - Director List (NYP 22/23)
@@ -34,5 +37,5 @@ Name: Lek Er Xun
 
 ## Link
 - 💼 [LinkedIn](https://www.linkedin.com/in/lekerxun/)
-- 🌐 [LIMO](https://github.com/LekErXun149/Limo.git)
+
 
