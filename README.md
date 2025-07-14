@@ -4,11 +4,11 @@ Name: Lek Er Xun
 
 ## Education
 - **Higher Nitec in Mechatronics Engineering**  
-  Institute of Technical Education 
+  Institute of Technical Education     
   Apr 2016 - Mar 2018
 
 - **Diploma in Robotics & Mechatronics Engineering**  
-  Nanyang Polytechnics 
+  Nanyang Polytechnics     
   Apr 2021 - Mar 2024
 
 ## Job Experience
