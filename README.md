@@ -12,13 +12,8 @@ Name: Lek Er Xun
   Apr 2021 - Mar 2024
 
 ## Job Experience
-- **NSF | Singapore Civil Defence Force (SCDF)**   
-  Aug 2018 - Aug 2020
-  - Maintaining and repairing of equipment
-  - Frontdesk and administrative duty
-
 - **Intern | LINX Singapore Pte Ltd**      
-  Sep 2023 - Feb 2024
+  Sep 2023 - Feb 2024   
   - Project involving Machine Vision and Robotic Arm
   - Exhibitor for Industrial Transformation ASIA-PACIFIC 2023
 
@@ -40,5 +35,6 @@ Name: Lek Er Xun
 
 ## Link
 - 💼 [LinkedIn](https://www.linkedin.com/in/lekerxun/)
+- 🌍 [My Live Website](https://lekerxun.wixsite.com/portfolio)
 
 
